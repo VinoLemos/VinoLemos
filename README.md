@@ -9,6 +9,8 @@
   
 <img align="center" alt="Vino-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 <img align="center" alt="Vino-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+<img align="center" alt="Vino-Dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+<img align="center" alt="Vino-Dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
 <img align="center" alt="Vino-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
 <img align="center" alt="Vino-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 
@@ -19,9 +21,10 @@
  ## 
   
   
-- 🔭 Atualmente não trabalho na área, estou em busca da minha primeira oportunidade!
-- 🌱 Estou estudando Java, C#, SQL, PHP Laravel e aplicações Web com Tomcat! ☕
-- 🤔 Qualquer tipo de ajuda, critica construtiva ou dica é bem-vinda. 🦉
+- 🔭 Atualmente trabalho como Desenvolvedor Júnior na <a href = "https://psatech.com.br/" target="_blank">PSA Tech Group</a>
+- 🌱 Tenho conhecimento em Java, C#, SQL, Dotnet, ASP.Net Core, Entity Framework Core, ReactJS, ReactNative, Linux e Git.
+- 📔 Estou no 5º semestre de ADS na FatecPG, e estou estudando e focando em me tornar um Especialista/Engenheiro DevOps!
+- 🤔 Qualquer tipo de critica construtiva ou dica é bem-vinda. 🦉
   
  
   
