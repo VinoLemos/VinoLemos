@@ -27,7 +27,7 @@
 - 🔭 Atualmente trabalho como Desenvolvedor Júnior na <a href = "https://psatech.com.br/" target="_blank">PSA Tech Group</a>
 - 🌱 Tenho conhecimento em Java, C#, SQL, Dotnet, ASP.Net Core, Entity Framework Core, ReactJS, ReactNative, OracleDB, Linux e Git.
 - 📜 Certificado AZ900
-- 📔 Estou no 5º semestre de ADS na FatecPG, e estou estudando e focando em me tornar um Especialista/Engenheiro DevOps!
+- 📔 Estou no 6º semestre de ADS na FatecPG, e estou estudando e focando em me tornar um Especialista/Engenheiro DevOps!
 - 🤔 Qualquer tipo de critica construtiva ou dica é bem-vinda. 🦉
   
  
