@@ -2,8 +2,8 @@
 
  <div>
   <a href="https://github.com/VinoLemos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VinoLemos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinoLemos&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VinoLemos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&card_width=600"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinoLemos&layout=compact&hide=blade,scss,shell&hide_progress=true&langs_count=10&theme=tokyonight&card_width=350"/>
 </div>
  <div style="display: inline_block"><br>
   
