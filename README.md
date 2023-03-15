@@ -24,11 +24,11 @@
  ## 
   
   
-- 🔭 Atualmente trabalho como Desenvolvedor Júnior na <a href = "https://psatech.com.br/" target="_blank">PSA Tech Group</a>
-- 🌱 Tenho conhecimento em Java, C#, SQL, Dotnet, ASP.Net Core, Entity Framework Core, ReactJS, ReactNative, OracleDB, Linux e Git.
-- 📜 Certificado AZ900
-- 📔 Estou no 6º semestre de ADS na FatecPG, e estou estudando e focando em me tornar um Especialista/Engenheiro DevOps!
-- 🤔 Qualquer tipo de critica construtiva ou dica é bem-vinda. 🦉
+- 🔭 Junior Software Developer at <a href = "https://psatech.com.br/" target="_blank">PSA Tech Group</a>
+- 🌱 I have experience with Java, C#, .NET, ASP .NET Core, Linux, Git, React Native & React
+- 📜 AZ-900 Certified
+- 📔 I'm currently at my 6th semester of the System Development and Analysis course at Fatec Praia Grande
+- 🤔 Open to any constructive criticism, tips, conversation, etc. 🦉
   
  
   
