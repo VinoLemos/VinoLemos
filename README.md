@@ -27,7 +27,6 @@
 - 🔭 Junior Software Developer at <a href = "https://psatech.com.br/" target="_blank">PSA Tech Group</a>
 - 🌱 I have experience with Java, C#, .NET, ASP .NET Core, Linux, Git, React Native & React
 - 📜 AZ-900 Certified
-- 📔 I'm currently at my 6th semester of the System Development and Analysis course at Fatec Praia Grande
 - 🤔 Open to any constructive criticism, tips, conversation, etc. 🦉
   
  
