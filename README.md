@@ -47,10 +47,10 @@
 
   <h3>About me: </h3>
   
-- 🔭 Fullstack Developer at <a href = "https://psatech.com.br/" target="_blank">PSA Tech Group</a>
-- 🌱 Currently learning microservices, authentication and deepening my front end development skills
-- 📜 AZ-900 Certified
-- 🤔 Open to any constructive criticism, tips, conversation, etc. 🦉
++ 🔭 **Fullstack Developer** at <a href = "https://psatech.com.br/" target="_blank">PSA Tech Group</a>
++ 🌱 Currently learning microservices, authentication and deepening my front end development skills
++ 📜 AZ-900 Certified
++ 🤔 Open to any constructive criticism, tips, conversation, etc. 🦉
 
 <div align="center"> 
  
