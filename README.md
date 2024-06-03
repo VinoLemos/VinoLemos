@@ -1,3 +1,7 @@
+<div align="center">
+  <img alt="ultrawide" src="https://github.com/VinoLemos/VinoLemos/blob/main/ultrawide-synthwave.jpg">
+</div>
+
 <h1 align="center">Hi, I'm Vinícius Lemos</h1>
 <center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome!" alt="Typing SVG" /></a></center>
 
