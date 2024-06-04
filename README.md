@@ -11,7 +11,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinolemos") [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vlemosdeoliveira@gmail.com) [![StackOverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/20768508/vinolemos)
 
  <div align="center">
-  <a href="https://github.com/VinoLemos">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VinoLemos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&card_width=290"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinoLemos&layout=compact&hide=blade,scss,shell&hide_progress=true&langs_count=10&theme=tokyonight&card_width=300"/>
 </div>
