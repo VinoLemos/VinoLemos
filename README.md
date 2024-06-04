@@ -12,10 +12,10 @@
 
  <div align="center">
   <a href="https://github.com/VinoLemos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VinoLemos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&card_width=299.8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VinoLemos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&card_width=290"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinoLemos&layout=compact&hide=blade,scss,shell&hide_progress=true&langs_count=10&theme=tokyonight&card_width=300"/>
 </div>
- <div style="display: inline_block"><br>
+ <div style="display: inline_block">    
   
 ## Languages and Tools:
 <div align="center">
