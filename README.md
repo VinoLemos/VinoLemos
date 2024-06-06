@@ -12,9 +12,16 @@
 
  <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height="180em" src="https://readme-stats-sigma-liart.vercel.app/api?username=VinoLemos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&card_width=290"/>
+  <img height="180em" src="https://readme-stats-sigma-liart.vercel.app/api?username=VinoLemos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&card_width=290"/>
   <img height="180em" src="https://readme-stats-sigma-liart.vercel.app/api/top-langs/?username=VinoLemos&layout=compact&hide=blade,scss,shell&hide_progress=true&langs_count=10&theme=tokyonight&card_width=300"/>
 </div>
+
+
+<div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=vinolemos&theme=tokyonight&rank=-C,-B,-?&column=4)](https://github.com/ryo-ma/github-profile-trophy)    
+</div>
+    
  <div style="display: inline_block">    
   
 ## Languages and Tools:
@@ -44,8 +51,10 @@
 [<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40">](https://www.sqlite.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40">](https://www.typescriptlang.org/)
 
-</div>
-<img align="right" alt="Synthwave" height="200em" src="https://github.com/VinoLemos/VinoLemos/blob/main/synthwave.gif">
+</div>  
+
+
+<img align="right" alt="Synthwave" height="250em" src="https://github.com/VinoLemos/VinoLemos/blob/main/synthwave.gif">
 
 ##
 
@@ -54,9 +63,11 @@
 + 🔭 **Fullstack Developer** at <a href = "https://psatech.com.br/" target="_blank">PSA Tech Group</a>
 + 🌱 Currently learning microservices, authentication and deepening my front end development skills
 + 📜 AZ-900 Certified
-+ 🤔 Open to any constructive criticism, tips, conversation, etc. 🦉
++ 🤔 Open to any constructive criticism, tips, conversation, etc. 🦉  
 
-<div align="center"> 
+
+<div align="center">  
+  
  
  ##
 
